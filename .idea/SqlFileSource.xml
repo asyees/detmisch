@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlFileSource">
+    <option name="sources">
+      <map>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/database-tool/202d107a-e2bc-459a-aa2a-95cfc887209c/console.sql" value="202d107a-e2bc-459a-aa2a-95cfc887209c" />
+        <entry key="$PROJECT_DIR$/web-itschool-main/Detmi-master/detmi_project/backend/detttmi.sql" value="202d107a-e2bc-459a-aa2a-95cfc887209c" />
+      </map>
+    </option>
+  </component>
+</project>

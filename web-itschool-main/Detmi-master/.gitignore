@@ -1,0 +1,13 @@
+# Node.js залежності
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Конфігурації IDE (WebStorm)
+.idea/
+*.iml
+
+# Загальні згенеровані файли/кеш
+build/
+dist/
+.env
